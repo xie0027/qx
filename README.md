@@ -1,5 +1,3 @@
-[![Zhe's github stats](https://github-readme-stats.vercel.app/api?username=i-chenzhe)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Zhe's Scripts 
 - 我讨厌fork！ 我讨厌fork！ 我讨厌fork！
 - 这里的脚本只是自己学习 js 的一个实践
